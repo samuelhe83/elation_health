@@ -1,0 +1,142 @@
+[
+  {
+    "date": "1980-01-25 22:59:15",
+    "result_id": 240001,
+    "name": "HDL",
+    "value": 43,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2009-04-27 04:37:48",
+    "result_id": 240002,
+    "name": "HDL",
+    "value": 53,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2010-02-25 20:14:15",
+    "result_id": 240003,
+    "name": "HDL",
+    "value": 35,
+    "patient_id": 1000000
+  },
+  {
+    "date": "1989-07-03 22:14:25",
+    "result_id": 240004,
+    "name": "HDL",
+    "value": 18,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2009-02-21 02:54:29",
+    "result_id": 240005,
+    "name": "HDL",
+    "value": 56,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2001-03-24 00:39:31",
+    "result_id": 240006,
+    "name": "HDL",
+    "value": 26,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2009-10-12 02:51:24",
+    "result_id": 240007,
+    "name": "HDL",
+    "value": 11,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2003-06-06 18:31:58",
+    "result_id": 240008,
+    "name": "HDL",
+    "value": 42,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2011-12-17 22:11:37",
+    "result_id": 240009,
+    "name": "HDL",
+    "value": 29,
+    "patient_id": 1000000
+  },
+  {
+    "date": "2001-12-02 08:56:07",
+    "result_id": 240010,
+    "name": "HDL",
+    "value": 20,
+    "patient_id": 1000000
+  },
+  {
+    "date": "1994-09-30 11:59:32",
+    "result_id": 240011,
+    "name": "HDL",
+    "value": 32,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1994-12-15 21:08:41",
+    "result_id": 240012,
+    "name": "HDL",
+    "value": 11,
+    "patient_id": 1000001
+  },
+  {
+    "date": "2004-03-06 16:31:38",
+    "result_id": 240013,
+    "name": "HDL",
+    "value": 52,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1985-04-03 07:47:41",
+    "result_id": 240014,
+    "name": "HDL",
+    "value": 39,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1986-08-06 19:35:24",
+    "result_id": 240015,
+    "name": "HDL",
+    "value": 55,
+    "patient_id": 1000001
+  },
+  {
+    "date": "2011-06-24 16:04:34",
+    "result_id": 240016,
+    "name": "HDL",
+    "value": 14,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1998-08-06 23:17:57",
+    "result_id": 240017,
+    "name": "HDL",
+    "value": 56,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1995-02-22 20:28:55",
+    "result_id": 240018,
+    "name": "HDL",
+    "value": 14,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1990-12-26 03:49:18",
+    "result_id": 240019,
+    "name": "HDL",
+    "value": 17,
+    "patient_id": 1000001
+  },
+  {
+    "date": "1999-09-20 11:45:10",
+    "result_id": 240020,
+    "name": "HDL",
+    "value": 12,
+    "patient_id": 1000001
+  }
+]

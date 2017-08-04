@@ -1,0 +1,54 @@
+[
+  {
+    "last_three_values": [
+      {
+        "patient_id": 1000001,
+        "value": 14,
+        "name": "HDL",
+        "result_id": 240018,
+        "date": "1995-02-22 20:28:55"
+      },
+      {
+        "patient_id": 1000001,
+        "value": 10,
+        "name": "HDL",
+        "result_id": 1446,
+        "date": "1995-02-16 15:25:26"
+      },
+      {
+        "patient_id": 1000001,
+        "value": 55,
+        "name": "HDL",
+        "result_id": 1300,
+        "date": "1995-02-16 09:02:57"
+      }
+    ],
+    "result_id": 1245
+  },
+  {
+    "last_three_values": [
+      {
+        "patient_id": 1000000,
+        "value": 53,
+        "name": "HDL",
+        "result_id": 240002,
+        "date": "2009-04-27 04:37:48"
+      },
+      {
+        "patient_id": 1000000,
+        "value": 22,
+        "name": "HDL",
+        "result_id": 176,
+        "date": "2009-04-03 23:30:31"
+      },
+      {
+        "patient_id": 1000000,
+        "value": 56,
+        "name": "HDL",
+        "result_id": 240005,
+        "date": "2009-02-21 02:54:29"
+      }
+    ],
+    "result_id": 119
+  }
+]
